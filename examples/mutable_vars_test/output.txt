@@ -1,0 +1,4 @@
+start value: 50
+change to text: text
+change to stack, size: 1
+scope of x exists:  68

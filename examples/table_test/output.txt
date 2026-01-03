@@ -1,0 +1,4 @@
+Name: Mike
+Age: 22
+Are they a student? true
+What is their favourite food? Pizza

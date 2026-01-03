@@ -1,0 +1,5 @@
+found txt file:  examples/sample_dir/second-text.txt
+found txt file:  examples/sample_dir/first-text.txt
+found txt file:  examples/sample_dir/sub1/inner-2.txt
+found txt file:  examples/sample_dir/sub1/sub-lvl-2/lvl-2-leaf.txt
+total txt 4

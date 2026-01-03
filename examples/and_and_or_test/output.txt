@@ -1,0 +1,7 @@
+true and true
+true or true
+true or false
+false or true
+yeah
+yes
+[Runtime Error]: Mismatched or unsupported types in binary expression

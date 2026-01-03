@@ -1,0 +1,2 @@
+file:  examples/sample_dir/foo/bar/complex_file_test.py
+file:  examples/sample_dir/complex_test/bar/foo/complex_file_test_2.py

@@ -1,0 +1,11 @@
+number:  2
+number:  1
+stack start: true
+stack size after 1 push:  1
+stack size after 1 pop:  0
+popped file name:  examples/sample_dir/first-text.txt
+first file in stack:  examples/sample_dir
+second file in stack:  examples/sample_dir
+examples/sample_dir
+examples/sample_dir
+[Runtime Error]: Argument to print could not be found. Check that the variable (and index) has an assigned value.
